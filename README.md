@@ -53,8 +53,8 @@ Sistema que cruza dados climáticos por localização e indica as melhores janel
 
 ---
 
-### `suporte-ia`
-Triagem automática de chamados técnicos com IA conversacional — reduz tempo de atendimento filtrando e categorizando tickets antes do suporte humano.
+### `field service management`
+Triagem automática de chamados técnicos com IA conversacional — reduz tempo de atendimento filtrando e categorizando tickets antes do suporte humano. os tickets são enviados estruturados para o técnico solucionar o problema. 
 
 `Python` `IA Conversacional`
 
