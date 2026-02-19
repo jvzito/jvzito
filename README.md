@@ -15,9 +15,9 @@
 
 ## whoami
 
-Desenvolvedor backend em formação, estudante de **Ciência da Computação**, com foco em construir APIs sólidas e sistemas bem estruturados. Não tenho interesse em código bonito por fora e quebrado por dentro — gosto de entender o que está acontecendo sob o capô.
+Desenvolvedor backend em formação, estudante de **Ciência da Computação**, com foco em construir APIs sólidas e sistemas bem estruturados. 
 
-Experiência prática com desenvolvimento backend e frontend, modelagem de banco de dados e integração de APIs REST. Portfólio focado em projetos com problemas reais, não apenas tutoriais.
+Experiência prática com desenvolvimento backend e frontend, modelagem de banco de dados e integração de APIs REST. Portfólio focado em projetos com problemas reais.
 
 ---
 
