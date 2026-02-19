@@ -74,7 +74,7 @@ Triagem automática de chamados técnicos com IA conversacional — reduz tempo 
 | Canal | Link |
 |---|---|
 | GitHub | [@jvzito](https://github.com/jvzito) |
-| LinkedIn | [@joaosilva1704] (https://www.linkedin.com/in/joaosilva1704/) |
+| LinkedIn | [@joaosilva1704](https://www.linkedin.com/in/joaosilva1704/) |
 
 ---
 
