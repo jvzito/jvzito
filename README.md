@@ -73,7 +73,7 @@ Sistema de **métricas e estatísticas da NBA** — dados de jogadores, times, d
 | Canal | |
 |---|---|
 | GitHub | [@jvzito](https://github.com/jvzito) |
-| LinkedIn | *(adicione aqui)* |
+| LinkedIn | [@joaosilva1704](https://www.linkedin.com/in/joaosilva1704/) |
 
 ---
 
