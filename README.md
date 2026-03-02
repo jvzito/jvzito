@@ -9,7 +9,7 @@ Golang • REST APIs • SQL • System Design
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
 
 Sou desenvolvedor **Backend** e estudante de **Ciência da Computação**, com foco principal em **Golang (Go)** para construção de APIs **performáticas**, **escaláveis** e **bem estruturadas**.
 
@@ -17,7 +17,7 @@ Tenho experiência com modelagem de banco de dados, integração de APIs REST e 
 
 ---
 
-## 🛠️ Stack Principal
+## Stack Principal
 
 **Backend**
 - Go (Golang)
@@ -45,9 +45,9 @@ Tenho experiência com modelagem de banco de dados, integração de APIs REST e 
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
-### 🏀 Airball
+### Airball
 Sistema de **estatísticas da NBA** focado em performance e organização de dados.
 
 **Backend**
@@ -65,7 +65,7 @@ Sistema de **estatísticas da NBA** focado em performance e organização de dad
 
 ---
 
-### ⚙️ Backend API Golang
+### Backend API Golang
 API REST desenvolvida em **Golang**, com organização por camadas, separação de responsabilidades e integração com banco de dados relacional.
 
 **Stack:**  
@@ -73,7 +73,7 @@ API REST desenvolvida em **Golang**, com organização por camadas, separação 
 
 ---
 
-### 🌱 AgroPlanner
+### AgroPlanner
 Sistema que cruza dados climáticos por localização e indica as melhores janelas de plantio, usando APIs externas e dados históricos.
 
 **Stack:**  
@@ -81,7 +81,7 @@ Sistema que cruza dados climáticos por localização e indica as melhores janel
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Consolidar domínio em **Backend com Golang**
 - Construir APIs escaláveis e bem estruturadas
@@ -90,7 +90,7 @@ Sistema que cruza dados climáticos por localização e indica as melhores janel
 
 ---
 
-## 📫 Contato
+## Contato
 
 - GitHub: [github.com/jvzito](https://github.com/jvzito)
 - LinkedIn: [linkedin.com/in/joaosilva1704](https://www.linkedin.com/in/joaosilva1704/)
