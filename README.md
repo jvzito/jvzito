@@ -6,7 +6,7 @@
 
 ## whoami
 
-Estudante de **Ciência da Computação**, construindo experiência real enquanto ainda estou na faculdade. Cada projeto é uma chance de aprender algo que o curso ainda não ensinou.
+Estudante de **Ciência da Computação**, construindo experiência real enquanto ainda estou na faculdade.
 
 Foco principal em backend com **Go** — gosto da linguagem pela clareza, performance e pela forma direta de resolver problemas. Trabalho também com banco de dados, APIs REST e integração com frontends modernos. O objetivo é simples: evoluir rápido e entregar coisas que funcionam.
 
