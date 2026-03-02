@@ -1,88 +1,84 @@
-<div align="center">
+# João Vitor
 
-# João Vitor  
-### Backend Developer · Golang
-
-Golang • REST APIs • SQL • System Design
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=00ADD8&center=false&vCenter=true&width=500&lines=Go+Backend+Developer;REST+APIs+%7C+SQL+%7C+System+Design;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
 ---
 
-## Sobre mim
+## whoami
 
-Sou desenvolvedor **Backend** e estudante de **Ciência da Computação**, com foco principal em **Golang (Go)** para construção de APIs **performáticas**, **escaláveis** e **bem estruturadas**.
+Estudante de **Ciência da Computação**, construindo experiência real enquanto ainda estou na faculdade. Cada projeto é uma chance de aprender algo que o curso ainda não ensinou.
 
-Tenho experiência com modelagem de banco de dados, integração de APIs REST e organização de projetos seguindo boas práticas de arquitetura. Gosto de construir sistemas que resolvem problemas reais, com código limpo e manutenível.
-
----
-
-## Stack Principal
-
-**Backend**
-- Go (Golang)
-- Gin
-- REST APIs
-- Clean Architecture
-
-**Banco de Dados**
-- SQL
-- PostgreSQL
-
-**Frontend**
-- React
-- Vue
-- CSS
-
-**Ferramentas**
-- Git & GitHub
-- Docker
-- Linux
-
-**Outros**
-- Java (Spring Boot)
-- Python
+Foco principal em backend com **Go** — gosto da linguagem pela clareza, performance e pela forma direta de resolver problemas. Trabalho também com banco de dados, APIs REST e integração com frontends modernos. O objetivo é simples: evoluir rápido e entregar coisas que funcionam.
 
 ---
 
-## Projetos em Destaque
+## Stack
 
-### Airball
-Sistema de **estatísticas da NBA** focado em performance e organização de dados.
+```go
+package main
 
-**Backend**
-- Golang + Gin
-- Integração com a **API oficial da NBA**
-- API REST para consumo em múltiplos frontends
+type JoaoVitor struct {
+    Backend  []string
+    Frontend []string
+    Database []string
+    Tools    []string
+}
 
-**Frontend**
-- React e Vue
-- CSS
-- Dashboards estatísticos
-
-**Stack:**  
-`Go` `Gin` `NBA API` `REST` `React` `Vue` `CSS`
+func main() {
+    me := JoaoVitor{
+        Backend:  []string{"Go", "Gin", "Fiber", "Java", "Spring Boot"},
+        Frontend: []string{"React", "Vue", "TypeScript", "Tailwind CSS"},
+        Database: []string{"SQL", "PostgreSQL"},
+        Tools:    []string{"Git", "GitHub", "Linux", "Docker"},
+    }
+    _ = me
+}
+```
 
 ---
 
-### AgroPlanner
-Sistema que cruza dados climáticos por localização e indica as melhores janelas de plantio, usando APIs externas e dados históricos.
+## Projetos
 
-**Stack:**  
-`Python` `APIs Externas` `Banco de Dados`
+### `airball` — *projeto principal*
+Sistema de **métricas e estatísticas da NBA** — dados de jogadores, times, desempenho por temporada e comparativos. Backend em Go com Gin e Fiber, consumindo e servindo dados via REST API. Frontend em React e Vue com TypeScript e Tailwind CSS.
+
+**Status:** em desenvolvimento ativo
+
+`Go` `Gin` `Fiber` `React` `Vue` `TypeScript` `Tailwind CSS` `PostgreSQL`
+
+🔗 [github.com/jvzito/airball](https://github.com/jvzito/airball) *(atualize o link)*
+
+---
+
+### Outros projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| `agroplanner` | Recomendação de épocas de plantio com base em dados climáticos | Python · APIs externas |
+| `suporte-ia` | Triagem automática de chamados técnicos com IA | Python |
 
 ---
 
 ## Objetivos
 
-- Consolidar domínio em **Backend com Golang**
-- Construir APIs escaláveis e bem estruturadas
-- Aplicar boas práticas de arquitetura e testes
-- Atuar profissionalmente como **Go Backend Developer**
+- Aprofundar domínio em **Go** — concorrência, performance, arquitetura
+- Construir o **Airball** como projeto de referência no portfólio
+- Integrar backends robustos com frontends React/Vue de forma coesa
+- Entrar no mercado com código que fala por si
 
 ---
 
 ## Contato
 
-- GitHub: [github.com/jvzito](https://github.com/jvzito)
-- LinkedIn: [linkedin.com/in/joaosilva1704](https://www.linkedin.com/in/joaosilva1704/)
+| Canal | |
+|---|---|
+| GitHub | [@jvzito](https://github.com/jvzito) |
+| LinkedIn | *(adicione aqui)* |
+
+---
+
+<div align="center">
+
+*"Primeiro faça funcionar. Depois faça certo. Depois faça rápido."*
+
+</div>
