@@ -46,7 +46,7 @@ Sistema de **métricas e estatísticas da NBA** — dados de jogadores, times, d
 
 `Go` `Gin` `Fiber` `React` `Vue` `TypeScript` `Tailwind CSS` `PostgreSQL`
 
-🔗 [github.com/jvzito/airball](https://github.com/jvzito/airball) *(atualize o link)*
+🔗 [github.com/jvzito/airball](https://github.com/jvzito/airball)
 
 ---
 
