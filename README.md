@@ -65,14 +65,6 @@ Sistema de **estatísticas da NBA** focado em performance e organização de dad
 
 ---
 
-### Backend API Golang
-API REST desenvolvida em **Golang**, com organização por camadas, separação de responsabilidades e integração com banco de dados relacional.
-
-**Stack:**  
-`Go` `REST APIs` `PostgreSQL`
-
----
-
 ### AgroPlanner
 Sistema que cruza dados climáticos por localização e indica as melhores janelas de plantio, usando APIs externas e dados históricos.
 
